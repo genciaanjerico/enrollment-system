@@ -1,0 +1,122 @@
+body {
+  background-color: #f4f4f4;
+  color: #000000;
+  font-size: 16px !important;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.r-brdr-btm {
+  border-bottom: 0px !important;
+}
+
+.r-mrgn-btm {
+  margin-bottom: 0px !important;
+}
+
+.user-plate {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #cf9c96;
+  padding-bottom: 6px;
+  border-bottom: 6px solid #005e9c;
+}
+
+.default-color.card {
+  border-color: #cf9c96 !important;
+}
+
+.default-color .card-header {
+  background: #cf9c96 !important;
+  color: #c6f4ff;
+  ;
+}
+
+.card.card-menu a {
+  display: block;
+  padding: 8px 7px 8px 15px;
+  text-decoration: none;
+  color: #000000;
+}
+
+.card.card-menu a:hover {
+  color: #005e9c;
+}
+
+.card.card-menu .list-group-item {
+  padding: 0px;
+}
+
+.content-header {
+  font-size: 25px;
+  font-weight: bold;
+  padding-bottom: 1rem;
+  margin-bottom: 2rem;
+  border-bottom: 1px solid rgba(0, 0, 0, .125);
+  display: flex;
+}
+
+.content-header .column {
+  flex: auto;
+}
+
+.card.dashboard {
+  background-color: #F7F7F7;
+  text-align: center;
+  font-weight: bold;
+}
+
+.card.dashboard .count {
+  font-size: 50px;
+}
+
+.card.dashboard .text {
+  font-size: 30px;
+}
+
+#table td,
+th {
+  vertical-align: middle;
+}
+
+#table td:last-child {
+  text-align: center;
+}
+
+#table-account td:last-child {
+  text-align: right;
+}
+
+#table-account a {
+  text-decoration: none;
+}
+
+#login-form {
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 75px;
+}
+
+#login-form .card-header {
+  font-size: 1.25rem;
+}
+
+#header {
+  margin-bottom: 25px;
+}
+
+#footer {
+  margin-top: 25px;
+  text-align: center;
+}
